@@ -42,7 +42,7 @@ An AI-powered finance platform that helps users manage their money intelligently
 - **Inngest** (for cron jobs)  
 - **Arcjet** (API protection)  
 - **Resend** + **React Email** (transactional emails)  
-- **OpenAI APIs** (Gemini AI, Function Calling, Whisper)  
+- **OpenAI APIs** (Gemini AI, Function Calling, OCR)  
 
 ---
 
