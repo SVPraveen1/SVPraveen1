@@ -1,6 +1,6 @@
 ## Welcome to my GitHub👋, I'm KSV Praveen
 
-💡 I’m a Full Stack Developer passionate about building impactful digital products. From scalable web apps to AI-powered tools, I turn ideas into elegant solutions.
+💡 I’m a AI Full Stack Developer passionate about building impactful digital products. From scalable web apps to AI-powered tools, I turn ideas into elegant solutions.
 
 ---
 ## About Me
