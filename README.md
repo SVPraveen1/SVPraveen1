@@ -51,17 +51,13 @@ An AI-powered finance platform that helps users manage their money intelligently
 🌐 Portfolio : [svpraveen.vercel.app](https://ksvpraveen.vercel.app)  
 <p align="left">
   <a href="mailto:shyamkaruparthi@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="gmail" width="24" style="vertical-align:middle; margin-right: 8px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="gmail" width="24" style="vertical-align:middle;"/>
   </a>
-  <a href="https://github.com/SVPraveen1" style="margin-left: 20px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="24" style="vertical-align:middle; margin-right: 8px;"/>
-  </a>
-  <a href="https://www.linkedin.com/in/ksvpraveen/" style="margin-left: 20px;">
+  <span style="margin: 0 12px;">  </span>
+  <a href="https://www.linkedin.com/in/ksvpraveen/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="24" style="vertical-align:middle;"/>
   </a>
 </p>
-
-
 
 
 ---
