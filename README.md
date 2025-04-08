@@ -48,16 +48,15 @@ An AI-powered finance platform that helps users manage their money intelligently
 
 ### 🤝 Let’s Connect
 
-🌐 Portfolio : [svpraveen.vercel.app](https://ksvpraveen.vercel.app)  
+### Let's Connect
+
+- 📫 My mail **shyamkaruparthi@gmail.com**
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="mailto:shyamkaruparthi@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="gmail" width="24" style="vertical-align:middle;"/>
-  </a>
-  <span style="margin: 0 12px;">  </span>
-  <a href="https://www.linkedin.com/in/ksvpraveen/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="24" style="vertical-align:middle;"/>
-  </a>
+<a href="https://www.linkedin.com/in/ksvpraveen/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jashwanth" height="30" width="40" /></a>
+<a href="https://www.instagram.com/svpraveen_174/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jashwanthpeddisetty" height="30" width="40" /></a>
 </p>
+
 
 
 ---
