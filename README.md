@@ -9,26 +9,6 @@ I'm passionate about building powerful, elegant, and scalable apps that combine 
 
 ---
 
-## 🚀 Projects
-
-### 🔷 Welth AI — Personal Finance Platform  
-An AI-powered finance platform that helps users manage their money intelligently.
-
-- Automated monthly reports via **Inngest** cron jobs.
-- Budget alerts and recurring transactions.
-- Receipt scanning with **Gemini AI** OCR.
-- Bot protection and rate-limiting with **Arcjet**.
-- **Resend** and *React Email* for sending monthly reports
-
-### 🔷 Sensei AI — Career Assistant & Smart CLI  
-
-  An AI career platform and productivity CLI for developers.
-
-- AI-powered platform providing real-time career insights, including industry trends.
-- Resume and cover letter generation with markdown editor.
-- Interview prep module with real-time feedback.
-
----
 
 ###  Tech Stack 
 
