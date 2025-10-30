@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm KSV Praveen
 
-💡 **AI Full Stack Developer** passionate about building scalable, intelligent, and user-focused applications. From AI-powered finance platforms to developer tools, I combine engineering skills with creativity to deliver impactful products.
+💡 **Full Stack Developer** passionate about building scalable, intelligent, and user-focused applications. From AI-powered finance platforms to developer tools, I combine engineering skills with creativity to deliver impactful products.
 
 ---
 
@@ -40,6 +40,13 @@
 ---
 
 ## 📌 Featured Projects
+
+### [Interview Prep AI – Mock Interview Platform](https://interview-prep-kappa.vercel.app/) | [GitHub](https://github.com/SVPraveen1/Interview_prep)
+
+* AI-powered mock interview platform with **real-time voice conversations** using Vapi AI, Deepgram & ElevenLabs.
+* Personalized interview generation tailored to roles, tech stacks & experience levels using **Gemini 2.5 Flash**.
+* Comprehensive AI feedback with category-wise scoring (communication, technical knowledge, problem-solving).
+* Built with **Next.js 16**, **Firebase**, **TypeScript** – enables interview sharing between users.
 
 ### [Welth AI – AI Finance Platform](https://welth-ai-one.vercel.app/) | [GitHub](https://github.com/SVPraveen1/welth-ai)
 
