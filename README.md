@@ -1,89 +1,112 @@
-## 👋 Hi, I'm KSV Praveen
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi+there!+%F0%9F%91%8B+I'm+KSV+Praveen;Full-Stack+Developer;AI+%26+Automation+Enthusiast;Problem+Solver" alt="Typing SVG" />
+</div>
 
-💡 **Full Stack Developer** passionate about building scalable, intelligent, and user-focused applications. From AI-powered finance platforms to developer tools, I combine engineering skills with creativity to deliver impactful products.
+<div align="center">
+  <a href="https://svpraveen.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-252A34?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/ksvpraveen/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:shyamkaruparthi@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
 
 ---
 
-## 🚀 About Me
+### 👨‍� About Me
 
-* Final-year **B.Tech CSE student** at IIITDM Kancheepuram.
-* Skilled in **object-oriented programming** (Python, C++, JavaScript) and **full stack development** (React, Next.js, Django).
-* Experienced in building **AI-powered platforms** that improve real-world efficiency by 50%+.
-* Passionate about solving **complex engineering problems** and creating applications with **modern UI/UX**.
+- 🎓 Final-year **B.Tech CSE student** at IIITDM Kancheepuram.
+- 💡 Passionate about building **scalable, intelligent, and user-focused applications**.
+- 🚀 Experienced in building **AI-powered platforms** that improve real-world efficiency by 50%+.
+- 🧠 Focus on solving **complex engineering problems** while maintaining **modern UI/UX**.
 
 ---
 
-## 🛠 Tech Stack
+### 🛠️ Technical Arsenal
+
+**Languages & Core:**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,react,nextjs,django,nodejs,express,html,css,tailwind,postgres,mongodb,prisma,git,github,aws,firebase" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,html,css" alt="Languages" />
 </p>
 
----
+**Frontend:**
 
-## 🔧 Tools & AI Integrations
-* **Automated Workflows** – Event-driven jobs and background tasks using Inngest
-* **API Security** – Rate limiting, role-based access, and session management with Arcjet & JWT
-* **Smart Communication** – Transactional email workflows powered by Resend + React Email
-* **AI Features** – OCR for receipts, predictive insights, and intelligent automation with Gemini & OpenAI APIs
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" alt="Frontend" />
+</p>
 
----
+**Backend & Database:**
 
-## 💼 Experience
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,postgres,mongodb,prisma" alt="Backend" />
+</p>
 
-**Web Developer Intern – GA Digital Solutions (May 2025 – July 2025)**
+**Cloud, DevOps & Tools:**
 
-* Built a coding assessment platform with dashboard, IDE & live workflows, used by 100+ candidates.
-* Secured sessions with JWT & role-based access, ensuring protection for 100+ users.
-* Architected REST APIs (Django + PostgreSQL) and containerized execution with Docker, reducing deployment time by 25%.
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,firebase,git,github,docker" alt="Tools" />
+</p>
 
----
+**AI & Specialized Integrations:**
 
-## 📌 Featured Projects
-
-### [Interview Prep AI – Mock Interview Platform](https://interview-prep-kappa.vercel.app/) | [GitHub](https://github.com/SVPraveen1/Interview_prep)
-
-* AI-powered mock interview platform with **real-time voice conversations** using Vapi AI, Deepgram & ElevenLabs.
-* Personalized interview generation tailored to roles, tech stacks & experience levels using **Gemini 2.5 Flash**.
-* Comprehensive AI feedback with category-wise scoring (communication, technical knowledge, problem-solving).
-* Built with **Next.js 16**, **Firebase**, **TypeScript** – enables interview sharing between users.
-
-### [Welth AI – AI Finance Platform](https://welth-ai-one.vercel.app/) | [GitHub](https://github.com/SVPraveen1/welth-ai)
-
-* Automated finance dashboard with OCR-based receipt scanning, predictive insights & real-time alerts.
-* Improved query performance by 25% using **PostgreSQL + Prisma**.
-
-### [Sensai AI – Career Assistant](https://sensai-ai-eta.vercel.app/) | [GitHub](https://github.com/SVPraveen1/sensai-ai)
-
-* AI career assistant for resumes, interview prep & career analytics.
-* Increased user interview success rate by 30% in 2 months.
-
-### [Health-AI – Healthcare Assistant](https://health-ai-three.vercel.app/) | [GitHub](https://github.com/SVPraveen1/Health-AI)
-
-* AI assistant for instant symptom checking & prescription management.
-* Achieved **90%+ user satisfaction** and increased weekly active users by 60%.
+- **AI Models & APIs:** `Gemini 2.5 Flash`, `OpenAI API`, `Vapi AI`, `Deepgram`, `ElevenLabs`
+- **Infrastructure & Workflows:** `Inngest` (Event-driven background jobs), `Docker` (Containerization)
+- **Security & Communication:** `Arcjet` (Rate limiting), `JWT` (Session Management), `Resend` + `React Email`
 
 ---
 
-## 💬 Interests
+### 💼 Professional Experience
 
-* AI-powered Projects 🤖
-* Full-Stack Development ⚙️
-* Developer Tools 🧰
-* Scalable Software Systems 📈
+| Role                     | Company              | Duration            | Highlights                                                                                                                                                                                                                                                                                                                                      |
+| :----------------------- | :------------------- | :------------------ | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Web Developer Intern** | GA Digital Solutions | May 2025 - Jul 2025 | <ul><li>Built a scalable coding assessment platform (Dashboard + Live IDE) used by 100+ candidates.</li><li>Implemented role-based JWT authentication for platform security.</li><li>Architected robust REST APIs with Django & PostgreSQL, and containerized the execution environment with Docker, reducing deployment time by 25%.</li></ul> |
 
 ---
 
-## 🤝 Connect with Me
+### � Highlighted Projects
 
-* 📫 Email: **[shyamkaruparthi@gmail.com](mailto:shyamkaruparthi@gmail.com)**
-* 🌐 Portfolio: [svpraveen.vercel.app](https://svpraveen.vercel.app/)
-* 💼 LinkedIn: [linkedin.com/in/ksvpraveen](https://www.linkedin.com/in/ksvpraveen/)
-* 🐙 GitHub: [SVPraveen1](https://github.com/SVPraveen1)
-* 📸 Instagram: [@svpraveen\_174](https://www.instagram.com/svpraveen_174/)
+#### 🎙️ [Interview Prep AI](https://interview-prep-kappa.vercel.app/) • [GitHub](https://github.com/SVPraveen1/Interview_prep)
+
+> **AI-powered mock interview platform** featuring real-time, low-latency voice conversations natively integrated with Vapi AI, Deepgram, and ElevenLabs.
+>
+> - **Tech Stack:** `Next.js 16`, `TypeScript`, `Gemini 2.5`, `Firebase`
+
+#### 📈 [Welth AI](https://welth-ai-one.vercel.app/) • [GitHub](https://github.com/SVPraveen1/welth-ai)
+
+> **Automated finance dashboard** with OCR-based receipt scanning, predictive insights, and real-time alerts. Increased API query performance by 25%.
+>
+> - **Tech Stack:** `Next.js`, `PostgreSQL`, `Prisma`, `Tailwind CSS`
+
+#### 🎯 [Sensai AI](https://sensai-ai-eta.vercel.app/) • [GitHub](https://github.com/SVPraveen1/sensai-ai)
+
+> **AI career assistant** for resume building, mock interviews, and career analytics. Boosted interview success rate by 30% for users within 2 months.
+>
+> - **Tech Stack:** `Next.js`, `AI APIs`
+
+#### 🩺 [Health-AI](https://health-ai-three.vercel.app/) • [GitHub](https://github.com/SVPraveen1/Health-AI)
+
+> **Intelligent healthcare assistant** for instant symptom checking and prescription management. Achieved 90%+ user satisfaction.
+>
+> - **Tech Stack:** `React.js`, `Node.js`, `AI Integrations`
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SVPraveen1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Praveen's GitHub stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SVPraveen1&theme=tokyonight&hide_border=true&background=0D1117" alt="Praveen's Streak" width="48%" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SVPraveen1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="50%" />
+</div>
 
 ---
 
 <div align="center">
-  🚀 Always learning. Always building. Let’s innovate together.
+  <i>🚀 Always learning. Always building. Let’s innovate together.</i><br/><br/>
+  <img src="https://profile-counter.glitch.me/SVPraveen1/count.svg" alt="Profile Views" />
 </div>
