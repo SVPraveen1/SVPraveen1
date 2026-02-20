@@ -67,46 +67,70 @@
 
 ---
 
-### � Highlighted Projects
+### 🏆 Featured Projects
 
-#### 🎙️ [Interview Prep AI](https://interview-prep-kappa.vercel.app/) • [GitHub](https://github.com/SVPraveen1/Interview_prep)
+<div align="left">
+  <h3>🎙️ <a href="https://github.com/SVPraveen1/Interview_prep">Interview Prep AI</a></h3>
+  <a href="https://interviewx-plum.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" /></a>
+  <a href="https://github.com/SVPraveen1/Interview_prep"><img src="https://img.shields.io/badge/Source_Code-2b3137?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" /></a>
+  <p>A full-stack mock interview platform enabling developers to practice technical interviews via real-time voice interaction with an AI interviewer.</p>
+  <ul>
+    <li><b>⚡ Core Features:</b> Generates custom interviews by role/tech-stack, tracks category-wise performance analytics, secure user interview libraries.</li>
+    <li><b>🧠 AI Architecture:</b> Low-latency voice pipelines with <code>Vapi AI</code>, <code>Deepgram</code> & <code>ElevenLabs</code>. Feedback logic powered by <code>Gemini 2.5 Flash</code>.</li>
+    <li><b>🛠️ Built With:</b> <code>Next.js 16</code>, <code>TypeScript</code>, <code>Firebase Auth/Firestore</code>, <code>Tailwind CSS</code>.</li>
+  </ul>
+</div>
 
-> **AI-powered mock interview platform** featuring real-time, low-latency voice conversations natively integrated with Vapi AI, Deepgram, and ElevenLabs.
->
-> - **Tech Stack:** `Next.js 16`, `TypeScript`, `Gemini 2.5`, `Firebase`
+<br>
 
-#### 📈 [Welth AI](https://welth-ai-one.vercel.app/) • [GitHub](https://github.com/SVPraveen1/welth-ai)
+<div align="left">
+  <h3>📈 <a href="https://github.com/SVPraveen1/welth-ai">Welth AI Finance</a></h3>
+  <a href="https://welth-ai-one.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" /></a>
+  <a href="https://github.com/SVPraveen1/welth-ai"><img src="https://img.shields.io/badge/Source_Code-2b3137?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" /></a>
+  <p>A modern, intelligent personal finance management application featuring automated OCR receipt scanning and real-time spending insights.</p>
+  <ul>
+    <li><b>⚡ Core Features:</b> Multi-account management, smart budget alerts, complex recurring transactions forecasting, rich interactive data charts.</li>
+    <li><b>⚙️ Engineering:</b> Integrated <code>Inngest</code> for event-driven cron jobs, implemented bot-protection via <code>Arcjet</code>, used server actions for mutation.</li>
+    <li><b>🛠️ Built With:</b> <code>Next.js 14</code>, <code>Prisma ORM</code>, <code>PostgreSQL</code>, <code>Clerk Auth</code>, <code>Google AI</code>.</li>
+  </ul>
+</div>
 
-> **Automated finance dashboard** with OCR-based receipt scanning, predictive insights, and real-time alerts. Increased API query performance by 25%.
->
-> - **Tech Stack:** `Next.js`, `PostgreSQL`, `Prisma`, `Tailwind CSS`
+<br>
 
-#### 🎯 [Sensai AI](https://sensai-ai-eta.vercel.app/) • [GitHub](https://github.com/SVPraveen1/sensai-ai)
+<div align="left">
+  <h3>🎯 <a href="https://github.com/SVPraveen1/sensai-ai">Sensai AI</a></h3>
+  <a href="https://sensai-ai-eta.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" /></a>
+  <a href="https://github.com/SVPraveen1/sensai-ai"><img src="https://img.shields.io/badge/Source_Code-2b3137?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" /></a>
+  <p>An adaptive learning platform designed to revolutionize personal education by tracking learning styles and providing real-time feedback.</p>
+  <ul>
+    <li><b>⚡ Core Features:</b> Analyzes engagement metrics, virtual tutoring sessions, predicting user learning bounds & dynamic difficulty scaling.</li>
+    <li><b>🛠️ Built With:</b> <code>Next.js (App Router)</code>, <code>Prisma ORM</code>, <code>PostgreSQL</code>, <code>Tailwind CSS</code>.</li>
+  </ul>
+</div>
 
-> **AI career assistant** for resume building, mock interviews, and career analytics. Boosted interview success rate by 30% for users within 2 months.
->
-> - **Tech Stack:** `Next.js`, `AI APIs`
+<br>
 
-#### 🩺 [Health-AI](https://health-ai-three.vercel.app/) • [GitHub](https://github.com/SVPraveen1/Health-AI)
-
-> **Intelligent healthcare assistant** for instant symptom checking and prescription management. Achieved 90%+ user satisfaction.
->
-> - **Tech Stack:** `React.js`, `Node.js`, `AI Integrations`
+<div align="left">
+  <h3>🩺 <a href="https://github.com/SVPraveen1/Health-AI">Health-AI</a></h3>
+  <a href="https://health-ai-three.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" /></a>
+  <a href="https://github.com/SVPraveen1/Health-AI"><img src="https://img.shields.io/badge/Source_Code-2b3137?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" /></a>
+  <p>A comprehensive healthcare web interface for managing medical profiles, tracking interactive symptom assessments, and disease prediction.</p>
+  <ul>
+    <li><b>⚡ Core Features:</b> Contextual real-time medical chat interface, personal medication management, secured endpoints with CAPTCHA verification.</li>
+    <li><b>🛠️ Built With:</b> <code>React + TypeScript</code>, <code>Vite</code>, <code>Supabase (Auth & DB)</code>, <code>shadcn/ui</code>, <code>Gemini AI</code>.</li>
+  </ul>
+</div>
 
 ---
 
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SVPraveen1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Praveen's GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SVPraveen1&theme=tokyonight&hide_border=true&background=0D1117" alt="Praveen's Streak" width="48%" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SVPraveen1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="50%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SVPraveen1&theme=tokyonight&hide_border=true&background=0D1117" alt="Praveen's Streak" />
 </div>
 
 ---
 
 <div align="center">
-  <i>🚀 Always learning. Always building. Let’s innovate together.</i><br/><br/>
-  <img src="https://profile-counter.glitch.me/SVPraveen1/count.svg" alt="Profile Views" />
+  <i>🚀 Always learning. Always building. Let’s innovate together.</i>
 </div>
